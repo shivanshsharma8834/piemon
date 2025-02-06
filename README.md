@@ -5,6 +5,14 @@ It automatically restarts the event loop whenever a change in the main file is d
 
 ## Getting started 
 
+Clone the repository on your machine
+```
+git clone https://github.com/shivanshsharma8834/piemon.git
+cd piemon
+```
+
+Then install the package
+
 ```
 pip install . 
 ```
