@@ -16,3 +16,10 @@ To use it with your main file just do
 ```
 piemon [filename].py [args] 
 ```
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
