@@ -1,0 +1,12 @@
+[project]
+name = "piemon"
+version = "0.1.0"
+description = "A tool to restart Python files."
+authors = [{ name = "Shivansh Sharma", email = "shivansh.report@gmail.com" }]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.7"
+dependencies = ["watchdog"]
+
+[project.scripts]
+piemon = "piemon.main:main"

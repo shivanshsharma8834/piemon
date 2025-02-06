@@ -43,7 +43,7 @@ def track_script(script_path, args=[]):
     observer.join()
 
 
-if __name__ == '__main__':
+def main():
     if len(sys.argv) < 2:
         print('Usage: python main.py <script_path> [args...]')
         sys.exit(1)
